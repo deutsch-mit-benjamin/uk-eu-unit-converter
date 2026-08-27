@@ -1,0 +1,10 @@
+{
+  "name": "UK ↔ EU Unit Converter",
+  "short_name": "UK ↔ EU Units",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "description": "UK Imperial and metric unit converter for everyday use."
+}
