@@ -1,4 +1,4 @@
-const CACHE = "uk-eu-units-v2";
+const CACHE = "uk-eu-units-v3";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)));
